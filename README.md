@@ -1,4 +1,4 @@
 Textchange
 ==========
 
-Code dump of Textchange
+Code dump of Textchange.
