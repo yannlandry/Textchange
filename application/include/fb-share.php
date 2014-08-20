@@ -1,0 +1,1 @@
+<a href="" class="fb-share"><?=lang('share')?> <img src="<?=ASSETS_ROOT?>/images/fb-share.png" alt="[FB]" /></a>

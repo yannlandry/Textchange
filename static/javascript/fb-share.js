@@ -1,0 +1,1 @@
+$(document).ready(function(){$('a.fb-share').attr('href','https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href));$('a.fb-share').click(function(){window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;});});
